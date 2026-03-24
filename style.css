@@ -8,7 +8,7 @@ body {
 }
 
 .calculator {
-  background: #fff;
+  background: #ac8aaa;
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.2);
@@ -37,27 +37,27 @@ body {
   font-size: 1.2rem;
   border: none;
   border-radius: 5px;
-  background: #e0e0e0;
+  background: #9d2f56;
   cursor: pointer;
   transition: background 0.2s;
 }
 
 .btn:hover {
-  background: #d5d5d5;
+  background: #f41f6a;
 }
 
 .operator {
-  background: #ff9500;
+  background: #85598d;
   color: #fff;
 }
 
 .operator:hover {
-  background: #e08900;
+  background: #b918c7;
 }
 
 #equals {
   grid-column: span 4;
-  background: #4caf50;
+  background: #3b553b;
   color: #fff;
 }
 
